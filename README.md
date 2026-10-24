@@ -1,4 +1,4 @@
-# Amazon Backend + Semantic Search
+# Amazon Backend + Semantic Search + Reverse Proxy
 
 This is the complete Amazon backend project with semantic product search integrated into the existing FastAPI app. Open this folder directly in VS Code. You do not need the separate patch folder or installer.
 
